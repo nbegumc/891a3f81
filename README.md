@@ -1,8 +1,3 @@
-usethis::use_roxygen_md()
-# MovieDataAnalysis
-
-usethis::use_pipe()
-usethis::use_data_raw()
 
 
 <!-- badges: start -->
@@ -11,13 +6,14 @@ usethis::use_data_raw()
 
 The goal of MovieDataAnalysis is to ...
 
-## Installation
+# Install the R package  if not installed:
 
-You can install the released version of MovieDataAnalysis from [CRAN](https://CRAN.R-project.org) with:
+devtools::install_github('unimi-dse/891a3f81')
 
-``` r
-install.packages("MovieDataAnalysis")
-```
+
+# Load the package:
+
+require(MovieDataAnalysis)
 
 ## Example
 
