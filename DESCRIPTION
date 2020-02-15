@@ -1,0 +1,18 @@
+Package: MovieDataAnalysis
+Type: Package
+Title: Movie Ratings Analysis
+Version: 0.1.0
+Author: Nazli Begum Cirpanli
+Maintainer: Nazli Begum Cirpanli <nazlibegum.cirpanli@studenti.unimi.it>
+Description: This package contains functions useful for analyzing movie ratings
+License: GPL-3
+Depends: R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
+Imports:
+        magrittr,
+        ggplot2,
+        dplyr,
+        stats
