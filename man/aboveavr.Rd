@@ -7,7 +7,7 @@
 aboveavr(n)
 }
 \arguments{
-\item{n}{Year / must be in between \link{2009,2011}}
+\item{n}{Year / must be in between [2009,2011]}
 }
 \value{
 Movie names

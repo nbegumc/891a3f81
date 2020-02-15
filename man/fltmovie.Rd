@@ -18,7 +18,7 @@ movie names
 }
 \description{
 This functions gives you the movies which have higher critics ratings than
-\%90 of the data
+%90 of the data
 }
 \examples{
 
