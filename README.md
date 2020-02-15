@@ -9,12 +9,14 @@ The goal of MovieDataAnalysis is to ...
 # Installation
 
 Install the R packageif not installed:
+
 devtools::install_github('unimi-dse/891a3f81')
 
 
 # Loading
 
 Load the package:
+
 require(MovieDataAnalysis)
 
 ## Example
