@@ -2,7 +2,6 @@
 #'
 #' Compute the correlation between Critics Ratings and Budget and tell how strong the computed correlation is.
 #'
-#' @param
 #'
 #' @return correlation number between -1 and 1, and comment
 #' @import stats
