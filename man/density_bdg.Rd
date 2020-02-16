@@ -10,5 +10,5 @@ density_bdg()
 Density chart
 }
 \description{
-Budget Density Chart by Genre
+Displays a density chart of budget by genre
 }
