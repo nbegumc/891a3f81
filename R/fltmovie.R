@@ -7,7 +7,7 @@
 #' @param n   budget amount
 #' @param yr  year / between 2007-2011
 #' @return  movie names
-#'
+#' @import stats
 #' @export
 #' @examples
 #' \dontrun{
