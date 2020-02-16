@@ -85,8 +85,8 @@ Below are the arguments for functions aboveavr() and fltmovie():
 aboveavr (n) : n, Year / must be in between 2007 - 2011
 
 fltmovie ("gnr",n,yr):
-gnr, Genre / must be "in quotations"
-n,   Budget Amount
+gnr, Genre / must be "in quotations" / must be one of these: "Action","Adventure","Comedy","Drama","Horror","Romance"
+n,   Budget Amount / must be in between 0-300
 yr,  Year / must be in between 2007-2011
 
 ```
@@ -101,7 +101,8 @@ This package provides a movie dataset containing 562 rows of 6 variables. The da
 
 The dataset was downloaded from https://www.superdatascience.com/
 
-Below are the codes to prepare the dataset:
+Below are the codes to prepare the dataset. 
+User does not have to run these codes, package has the final dataset ("movies") in itself.
 
 ``` r
 Getdata <- function(){
