@@ -1,5 +1,7 @@
 #'  Budget Density Chart by Genre
 #'
+#' Displays a density chart of budget by genre
+#'
 #'@param
 #'
 #'@return Density chart
