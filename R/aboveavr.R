@@ -4,7 +4,6 @@
 #'
 #' @param n Year / must be in between 2009 - 2011
 #' @return Movie names
-#' @import dplyr
 #' @export
 #' @examples
 #' \dontrun{
