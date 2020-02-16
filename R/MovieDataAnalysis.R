@@ -5,7 +5,6 @@
 #'
 #' @docType package
 #'
-#' @import dplyr
 #' @import ggplot2
 #' @import stats
 #' @import magrittr

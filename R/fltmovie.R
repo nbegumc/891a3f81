@@ -19,7 +19,7 @@
 
 fltmovie <- function(gnr,n,yr){
 
-  topminscore <- quantile(movies$CriticsRatings,probs = 0.90,na.rm = TRUE)
+  topminscore <- stats::quantile(movies$CriticsRatings,probs = 0.90,na.rm = TRUE)
   movies$Films[movies$Genre==gnr & movies$BudgetinMillions>n & movies$Year==yr &
                  movies$CriticsRatings>=topminscore]
 
