@@ -6,7 +6,7 @@ MovieDataAnalysis, prepared by Nazli Begum Cirpanli
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MovieDataAnalysis package is to give the users basic insights about analysis and visualisation of movie data. 
+The goal of MovieDataAnalysis package is to give the users basic insights about analysis and visualization of movie data. 
 
 ## Installation
 
