@@ -6,11 +6,11 @@ MovieDataAnalysis, prepared by Nazli Begum Cirpanli
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MovieDataAnalysis package is to give the users basic insights about analyzing and visualizing of movie data. 
+The goal of MovieDataAnalysis package is to give the users basic insights about analyzing and visualizing of movie data 
 
 ## Installation
 
-Install the R packageif not installed:
+Install the R package if not installed:
 
 devtools::install_github('unimi-dse/891a3f81')
 
