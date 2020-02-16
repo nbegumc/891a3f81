@@ -15,7 +15,7 @@
 
 corre <- function(){
 
-  c <- stats::cov(movies$BudgetinMillions, movies$CriticsRatings,use = "everything")
+  c <- cor(movies$BudgetinMillions, movies$CriticsRatings,use = "everything")
   print(c)
   if(c>0.7){
     print("There is a strong correalation between Budget and Critics Rating")
