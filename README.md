@@ -10,7 +10,7 @@ The goal of MovieDataAnalysis package is to give the users basic insights about 
 
 ## Installation
 
-Install the R package if not installed:
+First install the R package "devtools" if not installed
 
 ``` r
 devtools::install_github('unimi-dse/891a3f81')
