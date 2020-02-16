@@ -6,21 +6,23 @@ MovieDataAnalysis, prepared by Nazli Begum Cirpanli
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MovieDataAnalysis package is to give the users basic insights about analyzing and visualizing of movie data 
+The goal of MovieDataAnalysis package is to give the users basic insights about analyzing and visualizing of movie data. 
 
 ## Installation
 
-Install the R package if not installed:
+Install the R packageif not installed:
 
+``` r
 devtools::install_github('unimi-dse/891a3f81')
-
+```
 
 ## Loading
 
 Load the package:
 
+``` r
 require(MovieDataAnalysis)
-
+```
 ## Description
 
 MovieDataAnalysis consists of functions which explore and visualize some critical aspects of the data. This package might be helpful for those who are interested in movies and want to discover relationships between key variables such as ratings, budget etc. This package comes with its dataset and the functions are particular to it.
@@ -118,10 +120,12 @@ Getdata <- function(){
 ```
 ##### Download the dataset:
 
+```
 data("movies")
-
+```
 ##### Data Documentation:
 
+```
 ?movies
-
+```
 
