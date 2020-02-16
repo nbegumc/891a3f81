@@ -35,10 +35,9 @@ MovieDataAnalysis consists of functions which explore and visualize some critica
 ```
 aboveavr () Lists the movies which have above average budgets for a selected year
 
-corre () Computes the correlation between Critics Ratings and Budget and tells how strong the computed correlation is
+corre ()  Computes the correlation between Critics Ratings and Budget and tells how strong the computed correlation is
 
-fltmovie () Lists the movies which have higher critics ratings than
-%90 of the data
+fltmovie () Lists the movies which have higher critics ratings than %90 of the data
 
 ratingsmode () Computes the most recurring ratings for Critics and Audience Ratings over the five years
 ```
