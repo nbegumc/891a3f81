@@ -5,8 +5,6 @@
 #' @param n  Year / must be in between [2009,2011]
 #'
 #' @return A data frame with genres and average budget amounts
-#'
-#' @import dplyr
 #' @export
 #' @examples
 #'  \dontrun{
