@@ -6,8 +6,7 @@
 #' @return correlation number between -1 and 1, and comment
 #' @import stats
 #' @export
-#'
-#'  @examples
+#' @examples
 #' \dontrun{
 #' corre()
 #' }
