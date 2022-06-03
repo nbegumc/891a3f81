@@ -58,7 +58,7 @@ density_bdg() Displays a density chart of budget by genre
 #### Examples
 
 
-Below are the basic examples which shows you how to use the functions: 
+Below are the basic examples which show you how to use the functions: 
 
 ``` r
 library(MovieDataAnalysis)
